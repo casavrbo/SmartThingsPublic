@@ -1,4 +1,3 @@
-
 /**
  *  WeMo Dimmer Light Switch
  *  Source: https://github.com/kris2k2/SmartThingsPublic/smartapps/kris2k2/wemo-dimmer-light-switch.src
